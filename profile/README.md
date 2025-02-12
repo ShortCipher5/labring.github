@@ -1,7 +1,7 @@
 <h1 align="center">Labring</h1>
 
 <div align="center">
-<img src="../images/cover.jpg" width="400" alt="Cover" />
+<img src="../images/cover.svg" height="100" alt="Cover" />
 </div>
 
 ## About Us
